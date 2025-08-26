@@ -1,1 +1,5 @@
 env/
+cmi-detect-behavior-with-sensor-data/
+.ipynb_checkpoints/
+bfrb_data.ipynb
+data/
